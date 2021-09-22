@@ -1,0 +1,15 @@
+.container {
+    padding: 2em 0;
+    font-family: 'Tangerine', 'Times New Roman', Times, serif;
+}
+.title {
+    color: rgb(0, 150, 0);
+    text-align: center;
+}
+.title > span {
+    color: #111111;
+}
+.description {
+    text-align: center;
+    font-size: 1.3rem;
+}
